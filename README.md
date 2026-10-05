@@ -9,6 +9,70 @@ source_url:
 api_name: liquid
 ---
 
+<div align="center">
+
+<img src="./assets/velclaw-hero.svg" alt="Velclaw — AI-native development ecosystem" width="900">
+
+# Velclaw
+
+**Build. Deploy. Operate. — AI-native tooling for the full software lifecycle.**
+
+<a href="https://velclaw.cfd">Platform</a> · <a href="https://github.com/Velclaw">GitHub Organization</a> · <a href="https://github.com/Velclaw/Velclaw.github.io">Repository</a>
+
+![Status](https://img.shields.io/badge/status-active-7c3aed?style=for-the-badge)
+![Pages](https://img.shields.io/badge/docs-GitHub%20Pages-06b6d4?style=for-the-badge)
+![License](https://img.shields.io/badge/license-open%20source-111827?style=for-the-badge)
+
+</div>
+
+---
+
+## ✦ What is Velclaw?
+
+Velclaw is an AI-native development ecosystem designed to bring **workspace, automation, deployment, infrastructure, documentation, and agent workflows** into one coherent platform.
+
+### Core principles
+
+| Layer | Purpose |
+| --- | --- |
+| **Workspace** | Build and operate projects from one development surface. |
+| **Agents & Skills** | Turn natural-language intent into repeatable engineering workflows. |
+| **Deploy** | Move from source to production with reproducible deployment paths. |
+| **Host & Runtime** | Provide the runtime foundation for applications and services. |
+| **Docs** | Keep platform knowledge, APIs, guides, and references discoverable. |
+
+## ◉ Velclaw identity
+
+<img src="./assets/velclaw-mark.svg" alt="Velclaw mark" width="96">
+
+The visual system uses a dark, high-contrast foundation with **violet → cyan energy**, geometric claw/chevron geometry, and compact technical typography.
+
+## ∞ Product loop
+
+![Velclaw animated product loop](./assets/velclaw-loop.gif)
+
+> **Idea → Agent → Code → Deploy → Runtime → Observe → Iterate**
+
+## 🚀 Start here
+
+- **Platform:** https://velclaw.cfd
+- **Source:** https://github.com/Velclaw/Velclaw.github.io
+- **Organization:** https://github.com/Velclaw
+- **Documentation source:** content/
+- **GitHub Pages entrypoint:** site/
+
+## 📚 Repository structure
+
+    Velclaw.github.io/
+    ├── content/              # Existing documentation corpus
+    ├── site/                 # Additive GitHub Pages entrypoint
+    ├── assets/               # Velclaw identity + README media
+    ├── .github/workflows/    # Repository automation
+    └── README.md             # Project overview + reference content
+
+> **Preservation note:** The existing Liquid reference below is retained as source content. This README redesign is additive and does not remove the original documentation.
+
+---
 # Liquid reference
 
 Liquid is a template language created by Shopify. It's available as an [open source project](https://shopify.github.io/liquid/) on GitHub, and is used by many different software projects and companies.

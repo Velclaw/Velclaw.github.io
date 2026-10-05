@@ -73,9 +73,6 @@ The visual system uses a dark, high-contrast foundation with **violet → cyan e
 > **Preservation note:** The existing Liquid reference below is retained as source content. This README redesign is additive and does not remove the original documentation.
 
 ---
-
-# Existing reference content
-
 # Liquid reference
 
 Liquid is a template language created by Shopify. It's available as an [open source project](https://shopify.github.io/liquid/) on GitHub, and is used by many different software projects and companies.

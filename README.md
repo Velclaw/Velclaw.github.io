@@ -43,7 +43,7 @@ The visual system uses a dark, high-contrast foundation with **violet → cyan e
 
 ## ∞ Product loop
 
-![Velclaw animated product loop](./assets/velclaw-hero.gif)
+![Velclaw animated product loop](./assets/velclaw-loop.gif)
 
 > **Idea → Agent → Code → Deploy → Runtime → Observe → Iterate**
 

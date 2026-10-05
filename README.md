@@ -27,6 +27,10 @@ api_name: liquid
 
 ---
 
+## Navigation
+
+**[Overview](#-what-is-velclaw) · [Architecture](#-velclaw-architecture) · [Identity](#-velclaw-identity) · [Product loop](#-product-loop) · [Start here](#-start-here) · [Reference](#liquid-reference)**
+
 ## ✦ What is Velclaw?
 
 Velclaw is an AI-native development ecosystem designed to bring **workspace, automation, deployment, infrastructure, documentation, and agent workflows** into one coherent platform.
@@ -40,6 +44,12 @@ Velclaw is an AI-native development ecosystem designed to bring **workspace, aut
 | **Deploy** | Move from source to production with reproducible deployment paths. |
 | **Host & Runtime** | Provide the runtime foundation for applications and services. |
 | **Docs** | Keep platform knowledge, APIs, guides, and references discoverable. |
+
+## ◈ Velclaw architecture
+
+<img src="./assets/velclaw-architecture.svg" alt="Velclaw ecosystem architecture" width="900">
+
+Velclaw is organized around a continuous engineering loop: **build → automate → deploy → operate → iterate**. The README is the public entry point; the repository keeps the source material and deployment surface together.
 
 ## ◉ Velclaw identity
 

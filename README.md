@@ -1,6 +1,12 @@
 ---
-title: Velclaw
-description: AI-native development ecosystem for building, deploying, and operating modern software.
+title: Liquid reference
+description: >-
+  The Liquid reference documents the Liquid tags, filters, and objects that you
+  can use to build Shopify themes.
+source_url:
+  html: 'https://shopify.dev/docs/api/liquid'
+  md: 'https://shopify.dev/docs/api/liquid.md'
+api_name: liquid
 ---
 
 <div align="center">
